@@ -1,0 +1,6 @@
+com\kaiburr\taskapi\TaskExecution.class
+com\kaiburr\taskapi\TaskRepository.class
+com\kaiburr\taskapi\TaskController.class
+com\kaiburr\taskapi\HelloController.class
+com\kaiburr\taskapi\Task.class
+com\kaiburr\taskapi\TaskapiApplication.class
